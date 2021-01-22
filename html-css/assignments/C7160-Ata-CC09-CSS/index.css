@@ -9,3 +9,5 @@ body {background-color: black;
 div {text-align: center;}
 .headerfooter {text-align: center;}
 h1, h2 {font-family: "lobster", cursive;}
+a {color: red; text-decoration: none;}
+ul {line-height: 41.4px;}
